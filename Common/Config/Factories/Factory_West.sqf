@@ -72,6 +72,7 @@ _u = _u		+ ["rhsusf_m998_w_4dr_fulltop"];
 _u = _u		+ ["rhsusf_m998_w_s_4dr_fulltop"];
 _u = _u		+ ["Cha_Lav25"];
 _u = _u		+ ["Cha_Lav25_HQ"];
+_u = _u		+ ["Cha_Lav25A2"];
 _u = _u		+ ["B_G_Offroad_01_F"];
 _u = _u		+ ["B_G_Offroad_01_armed_F"];
 _u = _u		+ ["B_Truck_01_transport_F"];
