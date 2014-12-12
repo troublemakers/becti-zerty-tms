@@ -293,6 +293,15 @@ _u = _u + [4];
 _f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
+_c = _c + ['Cha_Lav25A2'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [325];
+_t = _t + [15];
+_u = _u + [4];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
 _c = _c + ['rhsusf_m998_w_s_4dr_fulltop'];
 _p = _p + [''];
 _n = _n + [''];
@@ -558,9 +567,6 @@ _u = _u + [10];
 _f = _f + [CTI_FACTORY_HEAVY];
 _s = _s + [""];
 
-
-
-
 _c = _c + ['B_Truck_01_Repair_F'];
 _p = _p + [''];
 _n = _n + [''];
@@ -596,10 +602,6 @@ _t = _t + [25];
 _u = _u + [0];
 _f = _f + [CTI_FACTORY_REPAIR];
 _s = _s + ["service-fueltruck"];
-
-
-
-
 
 _c = _c + ['B_Truck_01_ammo_F'];
 _p = _p + [''];
@@ -681,6 +683,15 @@ _n = _n + [''];
 _o = _o + [300];
 _t = _t + [35];
 _u = _u + [5];
+_f = _f + [CTI_FACTORY_AIR];
+_s = _s + [""];
+
+_c = _c + ['rhs_a10'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [300];
+_t = _t + [50];
+_u = _u + [6];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
@@ -869,7 +880,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [550];
 _t = _t + [25];
-_u = _u + [0];
+_u = _u + [4];
 _f = _f + [CTI_FACTORY_AMMO];
 _s = _s + ["service-ammotruck"];
 
@@ -880,7 +891,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [550];
 _t = _t + [25];
-_u = _u + [0];
+_u = _u + [4];
 _f = _f + [CTI_FACTORY_REPAIR];
 _s = _s + ["service-repairtruck"];
 
@@ -889,7 +900,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [550];
 _t = _t + [25];
-_u = _u + [0];
+_u = _u + [4];
 _f = _f + [CTI_FACTORY_REPAIR];
 _s = _s + ["service-fueltruck"];
 
@@ -898,7 +909,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [2500];
 _t = _t + [25];
-_u = _u + [0];
+_u = _u + [4];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + ["service-medic"];
 
@@ -907,7 +918,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [8000];
 _t = _t + [40];
-_u = _u + [1];
+_u = _u + [5];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
@@ -916,7 +927,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [6000];
 _t = _t + [40];
-_u = _u + [0];
+_u = _u + [4];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
