@@ -34,8 +34,8 @@ _t=_t+			[[50*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Factory: Aircraft Factory", "Unlock better aircraft units"]];
 _a=_a	+			[true];
-_c=_c +			[[100,100,100,100,100]];
-_lev=_lev+	[5];
+_c=_c +			[[100,100,100,100,100,100]];
+_lev=_lev+	[6];
 _lin=_lin+	[[[]]];
 _t=_t+			[[10*CTI_UPGRADE_RATIO]];
 

@@ -713,7 +713,7 @@ _n = _n + [''];
 _o = _o + [1700];
 _t = _t + [30];
 _u = _u + [4];
-_f = _f + [CTI_FACTORY_HEAVY];
+_f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
 _c = _c + ['O_APC_Tracked_02_cannon_F'];
@@ -834,6 +834,16 @@ _t = _t + [35];
 _u = _u + [0];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
+
+_c = _c + ['JS_JC_SU35'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [600];
+_t = _t + [35];
+_u = _u + [6];
+_f = _f + [CTI_FACTORY_AIR];
+_s = _s + [""];
+
 
 _c = _c + ['RHS_Mi24P_vvs'];
 _p = _p + [''];
