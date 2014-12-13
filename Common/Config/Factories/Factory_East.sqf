@@ -129,6 +129,7 @@ _u = _u		+ ['I_MBT_03_cannon_F'];
 missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_HEAVY], _u];
 
 _u 			= ['O_Heli_Light_02_unarmed_F'];
+_u = _u		+ ['JS_JC_SU35'];
 _u = _u		+ ['RHS_Mi24P_vvs'];
 _u = _u		+ ['RHS_Mi24V_vvs'];
 _u = _u		+ ['RHS_Mi24P_vdv'];

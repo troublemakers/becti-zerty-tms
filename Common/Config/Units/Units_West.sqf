@@ -508,8 +508,8 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [1700];
 _t = _t + [30];
-_u = _u + [0];
-_f = _f + [CTI_FACTORY_HEAVY];
+_u = _u + [5];
+_f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
 _c = _c + ['B_APC_Tracked_01_rcws_F'];
@@ -619,6 +619,24 @@ _n = _n + [''];
 _o = _o + [10000];
 _t = _t + [35];
 _u = _u + [4];
+_f = _f + [CTI_FACTORY_AIR];
+_s = _s + [""];
+
+_c = _c + ['JS_JC_FA18E'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [600];
+_t = _t + [35];
+_u = _u + [6];
+_f = _f + [CTI_FACTORY_AIR];
+_s = _s + [""];
+
+_c = _c + ['JS_JC_FA18F'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [600];
+_t = _t + [35];
+_u = _u + [6];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
