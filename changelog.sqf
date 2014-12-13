@@ -1,6 +1,6 @@
 
 player createDiarySubject ["TS", "TeamSpeak"];
-player createDiaryRecord ["TS",["JMW","ts.jammywarfare.eu"]];
+player createDiaryRecord ["TS",["TMS","ts3.thisisatest.de"]];
 
 
 player createDiarySubject ["CL", "Change Log"];
