@@ -451,7 +451,7 @@ _i = _i		+ ["rhs_rpg7_TBG7V_mag"];
 _u = _u		+ [0];
 _p = _p		+ [12];
 
-_i = _i		+ ["rhs_weap_rpg26"];
+_i = _i		+ ["rhs_mag_rpg26"];
 _u = _u		+ [0];
 _p = _p		+ [12];
 

@@ -11,28 +11,21 @@ missionNamespace setVariable [format["CTI_%1_Crew", _side], "B_crew_F"];
 missionNamespace setVariable [format["CTI_%1_Pilot", _side], "B_Helipilot_F"];
 
 missionNamespace setVariable [format["CTI_%1_Vehicles_Startup", _side], [
-	["B_Truck_01_transport_F", [
-		["arifle_mx_gl_f", 2], ["30Rnd_65x39_caseless_mag", 50],
-		["arifle_MXM_F", 1],
-		["launch_NLAW_F", 5], ["NLAW_F", 20],
+	["rhsusf_m998_w_4dr", [
+		["rhs_m4a1_m320", 2], ["rhs_mag_30Rnd_556x45_Mk262_Stanag", 50],
+		["rhs_weap_m16a4", 1],
+		["rhs_weap_M136", 10], ["rhs_m136_mag", 20],
 		["HandGrenade", 20],
-		["30Rnd_556x45_Stanag", 15],
-		["30Rnd_65x39_caseless_mag_Tracer", 6],
+		["rhs_mag_M433_HEDP", 20],
 		["3rnd_he_grenade_shell", 8],
-		["3Rnd_UGL_FlareWhite_F", 9],
 		["3rnd_smokeblue_grenade_shell", 3],
 		["SmokeShellBlue", 8],
 		["firstaidkit", 20],
 		["Chemlight_blue", 36],
-		["acc_flashlight", 5],
-		["optic_ACO_grn", 3],
-		["optic_Holosight", 2],
-		["optic_MRCO", 1],
-		["optic_arco", 2],
 		["Toolkit", 1],
-		["B_Bergen_sgg", 4]
+
 	]],
-	["B_MRAP_01_F", [["Toolkit", 1],["firstaidkit", 10],["30Rnd_556x45_Stanag", 15],["launch_NLAW_F", 5], ["NLAW_F", 20]]]
+	["rhsusf_m1025_w", [["Toolkit", 1],["firstaidkit", 10],["rhs_mag_30Rnd_556x45_Mk262_Stanag", 15],["rhs_weap_M136", 5], ["rhs_m136_mag", 20]]]
 	//,	["B_Heli_Transport_01_F", []]
 
 ]];

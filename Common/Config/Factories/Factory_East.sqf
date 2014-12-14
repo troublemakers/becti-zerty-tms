@@ -11,26 +11,24 @@ missionNamespace setVariable [format["CTI_%1_Crew", _side], "O_crew_F"];
 missionNamespace setVariable [format["CTI_%1_Pilot", _side], "O_Helipilot_F"];
 
 missionNamespace setVariable [format["CTI_%1_Vehicles_Startup", _side], [
-	["O_Truck_03_transport_F", [
-		["arifle_Katiba_GL_F", 2], ["30rnd_65x39_caseless_green", 50],
-		["launch_RPG32_F", 5], ["RPG32_F", 20],
+	["rhs_gaz66o_vv", [
 		["HandGrenade", 20],
-		["30Rnd_556x45_Stanag", 15],
-		["30Rnd_65x39_caseless_green_mag_Tracer", 6],
-		["1Rnd_HE_Grenade_shell", 24],
-		["UGL_FlareRed_F", 27],
-		["1Rnd_SmokeRed_Grenade_shell", 9],
-		["SmokeShellRed", 8],
 		["firstaidkit", 20],
 		["Chemlight_red", 36],
-		["acc_flashlight", 5],
-		["optic_ACO_grn", 3],
-		["optic_Holosight", 2],
-		["optic_MRCO", 1],
 		["Toolkit", 1],
-		["B_Bergen_sgg_Exp", 4]
+		["rhs_weap_ak74m_gp25", 3],
+		["rhs_weap_rpg26", 8],
+		["rhs_mag_rpg26", 10],
+		["rhs_rpg7_PG7VL_mag", 6],
+		["rhs_weap_rpg7", 3],
+		["rhs_acc_1p29", 2],
+		["rhs_acc_pgo7v", 1],
+		["rhs_acc_pkas", 4],
+		["rhs_30Rnd_545x39_AK", 30],
+		["3rnd_he_grenade_shell", 8]
+
 	]],
-	["O_MRAP_02_F", [	["Toolkit", 1],["firstaidkit", 10],["30Rnd_556x45_Stanag", 15],["launch_RPG32_F", 5], ["RPG32_F", 20]]]
+	["rhs_uaz_vv", [	["Toolkit", 1],["firstaidkit", 10],["rhs_30Rnd_545x39_AK", 15],["rhs_mag_rpg26", 10], ["rhs_weap_rpg26", 6]]]
 	//,	["O_Heli_Light_02_unarmed_F", []]
 ]];
 
