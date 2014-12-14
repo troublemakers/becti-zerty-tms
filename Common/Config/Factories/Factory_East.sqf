@@ -18,17 +18,17 @@ missionNamespace setVariable [format["CTI_%1_Vehicles_Startup", _side], [
 		["Toolkit", 1],
 		["rhs_weap_ak74m_gp25", 3],
 		["rhs_weap_rpg26", 8],
-		["rhs_mag_rpg26", 10],
+		["rhs_rpg26_mag", 10],
 		["rhs_rpg7_PG7VL_mag", 6],
 		["rhs_weap_rpg7", 3],
 		["rhs_acc_1p29", 2],
 		["rhs_acc_pgo7v", 1],
 		["rhs_acc_pkas", 4],
 		["rhs_30Rnd_545x39_AK", 30],
-		["3rnd_he_grenade_shell", 8]
+		["rhs_VOG25", 8]
 
 	]],
-	["rhs_uaz_vv", [	["Toolkit", 1],["firstaidkit", 10],["rhs_30Rnd_545x39_AK", 15],["rhs_mag_rpg26", 10], ["rhs_weap_rpg26", 6]]]
+	["rhs_uaz_vv", [	["Toolkit", 1],["firstaidkit", 10],["rhs_30Rnd_545x39_AK", 15],["rhs_rpg26_mag", 10], ["rhs_weap_rpg26", 6]]]
 	//,	["O_Heli_Light_02_unarmed_F", []]
 ]];
 

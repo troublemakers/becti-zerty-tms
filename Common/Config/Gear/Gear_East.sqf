@@ -451,12 +451,16 @@ _i = _i		+ ["rhs_rpg7_TBG7V_mag"];
 _u = _u		+ [0];
 _p = _p		+ [12];
 
-_i = _i		+ ["rhs_mag_rpg26"];
+_i = _i		+ ["rhs_rpg26_mag"];
 _u = _u		+ [0];
 _p = _p		+ [12];
 
 _i = _i		+ ["rhs_rshg2_mag"];
 _u = _u		+ [0];
+_p = _p		+ [12];
+
+_i = _i		+ ["rhs_VOG25"];
+_u = _u		+ [1];
 _p = _p		+ [12];
 
 //--- Weapons (Nested array elements are defined but skiped in the gear menu)
@@ -496,10 +500,6 @@ _p = _p		+ [30];
 
 //---RHS launchers
 _i = _i		+ ["rhs_weap_rpg7"];
-_u = _u		+ [0];
-_p = _p		+ [30];
-
-_i = _i		+ ["rhs_weap_rpg18"];
 _u = _u		+ [0];
 _p = _p		+ [30];
 

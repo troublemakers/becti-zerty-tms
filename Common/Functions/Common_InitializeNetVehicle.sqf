@@ -133,4 +133,22 @@ if (_sideID != CTI_P_SideID) exitWith {};
 	};
 };*/
 
+//--- Retexture bobcat
+if (typeOf _vehicle == "B_APC_Tracked_01_CRV_F") then { 
+switch (_side) do { 
+	case west: { 
+		_vehicle setObjectTextureGlobal [0,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_body_crv_co.paa"]; 
+		_vehicle setObjectTextureGlobal [1,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_body_crv_co.paa"]; 
+		_vehicle setObjectTextureGlobal [2,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_body_crv_co.paa"]; 
+}; 
+
+	case east: { 
+		_vehicle setObjectTextureGlobal [0,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_crv_opfor_co.paa"]; 
+		_vehicle setObjectTextureGlobal [1,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_crv_opfor_co.paa"]; 
+		_vehicle setObjectTextureGlobal [2,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_crv_opfor_co.paa"]; 
+	_vehicle setObjectTextureGlobal [3,"\A3\armor_f_beta\APC_Tracked_01\Data\apc_tracked_01_crv_opfor_co.paa"]; 
+};
+
+}; 
+}; 
 
