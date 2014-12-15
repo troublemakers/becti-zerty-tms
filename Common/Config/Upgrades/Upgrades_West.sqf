@@ -20,24 +20,24 @@ _t=_t+			[[10*CTI_UPGRADE_RATIO,20*CTI_UPGRADE_RATIO,30*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Factory: Light Factory", "Unlock better motorized units"]];
 _a=_a	+			[true];
-_c=_c +			[[1500,1500,1500,1500,1500]];
+_c=_c +			[[2500,5000,7500,15000,17500]];
 _lev=_lev+	[5];
 _lin=_lin+	[[[]]];
-_t=_t+			[[20*CTI_UPGRADE_RATIO]];
+_t=_t+			[[20*CTI_UPGRADE_RATIO,20*CTI_UPGRADE_RATIO,50*CTI_UPGRADE_RATIO,50*CTI_UPGRADE_RATIO,50*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Factory: Heavy Factory", "Unlock better armored units"]];
 _a=_a	+			[true];
-_c=_c +			[[500,500,500,500,500,500,500,500,500,500]];
+_c=_c +			[[5000,10000,12500,17500,20000,25000,30000,40000,45000,600000]];
 _lev=_lev+	[10];
-_lin=_lin+	[[[CTI_UPGRADE_LIGHT,1],[]]];
-_t=_t+			[[10*CTI_UPGRADE_RATIO,10*CTI_UPGRADE_RATIO]];
+_lin=_lin+	[[[CTI_UPGRADE_LIGHT,1],[CTI_UPGRADE_LIGHT,2],[CTI_UPGRADE_LIGHT,3]]];
+_t=_t+			[[50*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,150*CTI_UPGRADE_RATIO,200*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Factory: Aircraft Factory", "Unlock better aircraft units"]];
 _a=_a	+			[true];
-_c=_c +			[[250,250,250,250,250,250]];
+_c=_c +			[[7500,20000,25000,40000,45000,55000]];
 _lev=_lev+	[6];
 _lin=_lin+	[[[]]];
-_t=_t+			[[10*CTI_UPGRADE_RATIO]];
+_t=_t+			[[50*CTI_UPGRADE_RATIO,50*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,100*CTI_UPGRADE_RATIO,150*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Factory: AAF technologies", "Unlock AAF units (1::MRAPS, 2::APC , 3::TRACKED, 4::CHOPPERS, 5::PLANES)"]];
 _a=_a	+			[true];
