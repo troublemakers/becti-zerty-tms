@@ -61,14 +61,14 @@ _placements = _placements 	+ [[180, 15]];
 _specials = _specials		+ [[["DMG_Reduce", 5]]];
 
 _headers = _headers 		+ [[CTI_LIGHT, "Light Vehicle Factory", "Light"]];
-_classes = _classes 		+ [["Land_i_Garage_V1_F", "Land_Garage_V1_ruins_F"]];
+_classes = _classes 		+ [["Land_Research_HQ_F", "Land_Medevac_HQ_V1_ruins_F"]];
 _prices = _prices 			+ [2000];
 _times = _times 			+ [80];
 _placements = _placements 	+ [[90, 20]];
 _specials = _specials		+ [[["DMG_Alternative"], ["DMG_Reduce", 6]]];
 
 _headers = _headers 		+ [[CTI_CONTROLCENTER, "Control Center", "CC"]];
-_classes = _classes 		+ [["Land_i_House_Small_03_V1_F", "Land_House_Small_03_V1_ruins_F", ["Land_i_House_Small_03_V1_dam_F"]]];
+_classes = _classes 		+ [["Land_Medevac_HQ_V1_F", "Land_Medevac_HQ_V1_ruins_F"]];
 _prices = _prices 			+ [3000];
 _times = _times 			+ [90];
 _placements = _placements 	+ [[180, 20]];
@@ -89,14 +89,14 @@ _placements = _placements 	+ [[90, 35]];
 _specials = _specials		+ [[["DMG_Alternative"], ["DMG_Reduce", 12]]];
 
 _headers = _headers 		+ [[CTI_AMMO, "Ammo Depot", "Ammo"]];
-_classes = _classes 		+ [["Land_TBox_F", "Land_TBox_ruins_F"]];
+_classes = _classes 		+ [["Land_Cargo_HQ_V3_F", "Land_Cargo_HQ_V3_ruins_F"]];
 _prices = _prices 			+ [500];
 _times = _times 			+ [40];
 _placements = _placements 	+ [[0, 20]];
 _specials = _specials		+ [[["DMG_Alternative"], ["DMG_Reduce", 12]]];
 
 _headers = _headers 		+ [[CTI_REPAIR, "Repair Depot", "Repair"]];
-_classes = _classes 		+ [["Land_FuelStation_Build_F", "Land_FuelStation_Build_ruins_F"]];
+_classes = _classes 		+ [["Land_Cargo_HQ_V2_F", "Land_Cargo_HQ_V2_ruins_F"]];
 _prices = _prices 			+ [600];
 _times = _times 			+ [35];
 _placements = _placements 	+ [[180, 20]];

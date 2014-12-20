@@ -1155,7 +1155,60 @@ _u = _u + [4];
 _f = _f + [4];
 _s = _s + [""];
 
+//--- AGM stuff
+_c = _c + ["AGM_JerryCan"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [50];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
 
+_c = _c + ["AGM_SpareTrack"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [100];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
+
+_c = _c + ["AGM_SpareWheel"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [50];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
+
+_c = _c + ["AGM_SandbagBarrier_Crate"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [50];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
+
+_c = _c + ["AGM_RazorWire_Crate"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [25];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
+
+_c = _c + ["AGM_Box_Medical"];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [500];
+_t = _t + [5];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_REPAIR];
+_s = _s + [""];
 
 
 [_side, _faction, _c, _p, _n, _o, _t, _u, _f, _s] call compile preprocessFileLineNumbers "Common\Config\Units\Set_Units.sqf";
