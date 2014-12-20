@@ -1583,6 +1583,163 @@ _i = _i		+ ["6Rnd_RedSignal_F"];
 _u = _u		+ [0];
 _p = _p		+ [5];
 
+//--- AGM stuff
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_mag_Tracer_Dim"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_mag_SD"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_mag_AP"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_green_mag_Tracer_Dim"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_green_mag_SD"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_65x39_caseless_green_mag_AP"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_556x45_Stanag_Tracer_Dim"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_556x45_Stanag_SD"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_30Rnd_556x45_Stanag_AP"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_20Rnd_762x51_Mag_Tracer"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_20Rnd_762x51_Mag_Tracer_Dim"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_20Rnd_762x51_Mag_SD"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_20Rnd_762x51_Mag_AP"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_20Rnd_762x51_Mag_LR"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_muzzle_mzls_H"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_muzzle_mzls_B"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_muzzle_mzls_L"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_muzzle_mzls_smg_01"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_muzzle_mzls_smg_02"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_Clacker"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_DefusalKit"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_M26_Clacker"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_HandFlare_Green"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_HandFlare_Red"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_HandFlare_White"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_HandFlare_Yellow"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_M84"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_EarBuds"];
+_u = _u		+ [0];
+_p = _p		+ [15];
+
+_i = _i		+ ["AGM_UAVBattery"];
+_u = _u		+ [0];
+_p = _p		+ [100];
+
+_i = _i		+ ["AGM_MapTools"];
+_u = _u		+ [0];
+_p = _p		+ [50];
+
+_i = _i		+ ["AGM_Bandage"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_Morphine"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_Epipen"];
+_u = _u		+ [0];
+_p = _p		+ [250];
+
+_i = _i		+ ["AGM_Bloodbag"];
+_u = _u		+ [0];
+_p = _p		+ [200];
+
+_i = _i		+ ["AGM_SpareBarrel"];
+_u = _u		+ [0];
+_p = _p		+ [15];
+
+_i = _i		+ ["AGM_Altimeter"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_NonSteerableParachute"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_Vector"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
+_i = _i		+ ["AGM_ItemKestrel"];
+_u = _u		+ [0];
+_p = _p		+ [30];
+
 
 [_faction, _i, _u, _p] call compile preprocessFileLineNumbers "Common\Config\Gear\Gear_Config_Set.sqf";
 

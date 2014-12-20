@@ -161,6 +161,12 @@ _u = _u		+ ["O_Truck_02_fuel_F"];
 _u = _u		+ ["O_Truck_03_fuel_F"];
 _u = _u		+ ["Land_Pod_Heli_Transport_04_repair_F"];
 _u = _u		+ ["Land_Pod_Heli_Transport_04_fuel_F"];
+_u = _u		+ ["AGM_JerryCan"];
+_u = _u		+ ["AGM_SpareTrack"];
+_u = _u		+ ["AGM_SpareWheel"];
+_u = _u		+ ["AGM_SandbagBarrier_Crate"];
+_u = _u		+ ["AGM_RazorWire_Crate"];
+_u = _u		+ ["AGM_Box_Medical"];
 missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_REPAIR], _u];
 
 _u 			= ["O_Truck_02_Ammo_F"];

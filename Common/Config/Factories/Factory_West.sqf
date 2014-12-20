@@ -138,6 +138,12 @@ _u = _u		+ ["CTI_Salvager_West"];
 _u = _u		+ ["B_Truck_01_fuel_F"];
 _u = _u		+ ['B_Slingload_01_Repair_F'];
 _u = _u		+ ['B_Slingload_01_Fuel_F'];
+_u = _u		+ ["AGM_JerryCan"];
+_u = _u		+ ["AGM_SpareTrack"];
+_u = _u		+ ["AGM_SpareWheel"];
+_u = _u		+ ["AGM_SandbagBarrier_Crate"];
+_u = _u		+ ["AGM_RazorWire_Crate"];
+_u = _u		+ ["AGM_Box_Medical"];
 missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_REPAIR], _u];
 
 _u 			= ["B_Truck_01_ammo_F"];
