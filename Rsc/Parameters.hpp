@@ -39,31 +39,31 @@ class Params {
 		title = "INCOME: Delay";
 		values[] = {15,30,45,60,90,120,160,190};
 		texts[] = {"00:15 Minute","00:30 Minute","00:45 Minute","01:00 Minute","01:30 Minutes","02:00 Minutes","02:30 Minutes","03:00 Minutes"};
-		default = 45;
+		default = 60;
 	};
 	class CTI_ECONOMY_STARTUP_FUNDS_EAST_COMMANDER {
 		title = "INCOME: Starting Funds (East Commander)";
 		values[] = {9000,15000,20000,25000,30000,35000,40000,45000,50000,60000};
 		texts[] = {"$9000","$15000","$20000","$25000","$30000","$35000","$40000","$45000","$50000","$60000"};
-		default = 60000;
+		default = 15000;
 	};
 	class CTI_ECONOMY_STARTUP_FUNDS_EAST {
 		title = "INCOME: Starting Funds (East Players)";
 		values[] = {900,1500,2400,3200,6000,8000,10000,12500,15000,20000};
 		texts[] = {"$900","$1500","$2400","$3200","$6000","$8000","$10000","$12500","$15000","$20000"};
-		default = 20000;
+		default = 1500;
 	};
 	class CTI_ECONOMY_STARTUP_FUNDS_WEST_COMMANDER {
 		title = "INCOME: Starting Funds (West Commander)";
 		values[] = {9000,15000,20000,25000,30000,35000,40000,45000,50000,60000};
 		texts[] = {"$9000","$15000","$20000","$25000","$30000","$35000","$40000","$45000","$50000","$60000"};
-		default = 60000;
+		default = 15000;
 	};
 	class CTI_ECONOMY_STARTUP_FUNDS_WEST {
 		title = "INCOME: Starting Funds (West Players)";
 		values[] = {900,1500,2400,3200,6000,8000,10000,12500,15000,20000};
 		texts[] = {"$900","$1500","$2400","$3200","$6000","$8000","$10000","$12500","$15000","$20000"};
-		default = 20000;
+		default = 1500;
 	};
 	class CTI_ECONOMY_TOWNS_OCCUPATION {
 		title = "INCOME: Towns Occupation";
@@ -93,7 +93,7 @@ class Params {
 		title = "RESPAWN: Delay";
 		values[] = {15,20,25,30,35,40,45,50,55,60};
 		texts[] = {"15 Seconds","20 Seconds","25 Seconds","30 Seconds","35 Seconds","40 Seconds","45 Seconds","50 Seconds","55 Seconds","60 Seconds"};
-		default = 15;
+		default = 25;
 	};
 	class CTI_TOWNS_OCCUPATION {
 		title = "TOWNS: Occupation";
@@ -123,7 +123,7 @@ class Params {
 		title = "UNITS: Show Map Infantry";
 		values[] = {0,1};
 		texts[] = {"Disabled","Enabled"};
-		default = 1;
+		default = 0;
 	};
 	class CTI_UNITS_FATIGUE {
 		title = "UNITS: Fatigue";
@@ -170,7 +170,7 @@ class Params {
 		title = "Zerty: AI: Skill (credit : Bl1p, fluit)";
 		values[] = {1,2,3,4,5};
 		texts[] = {"Retards","DumbFucks","NotSobad","Good","Very Good"};
-		default = 3;
+		default = 4;
 	};
 
 	class CTI_MAX_MISSION_TIME {
@@ -204,7 +204,7 @@ class Params {
 		title = "Zerty: GROUPS: Size (Players) ";
 		values[] = {0,1,2,3,4,5,8,10,12,14,16};
 		texts[] = {"AutoAdaptative","1","2","3","4","5","8","10","12","14","16"};
-		default = 0;
+		default = 2;
 	};
 	class CTI_GAMEPLAY_MISSILES_RANGE {
 		title = "Zerty: GAMEPLAY: Missile Range";
@@ -247,13 +247,13 @@ class Params {
 		title = "Zerty: INCOME: base income for players";
 		values[] = {0,10,25,50,100,150,200,250};
 		texts[] = {"0$","10$","25$","50$","100$","150$","200$","250$"};
-		default = 250;
+		default = 10;
 	};
 	class CTI_VEHICLES_BOUNTY {
 		title = "Zerty: INCOME: On kill";
 		values[] = {0,25,50,75,100};
 		texts[] = {"No value","Low value","Medium value","High value","Full value"};
-		default = 50;
+		default = 75;
 	};
 	class CTI_PLAYER_REEQUIP {
 		title = "Zerty: RESPAWN : Reequip Gear";
@@ -295,7 +295,7 @@ class Params {
 		title = "Zerty: TOWNS : Resistance despawn Timer";
 		values[] = {30,60,120,240};
 		texts[] = {"30s","60s","120s","240s"};
-		default = 120;
+		default = 240;
 	};
 	class CTI_TOWNS_SHOPS {
 		title = "Zerty: TOWNS : Shops";
@@ -354,7 +354,7 @@ class Params {
 		title = "Zerty: Strategic: Patrols number";
 		values[] = {2,5,8,10,15,20};
 		texts[] = {"2","5","8","10","15","20"};
-		default = 8;
+		default = 2;
 	};
 
 	class CTI_SM_MORTARS {
@@ -411,13 +411,13 @@ class Params {
 		title = "Zerty: Repair/Forcelock: Enabled";
 		values[] = {0,1};
 		texts[] = {"Disabled","Enabled"};
-		default = 1;
+		default = 0;
 	};
 	class CTI_SM_FAR {
 		title = "Zerty: Revive: Enabled";
 		values[] = {0,1};
 		texts[] = {"disabled","Enabled"};
-		default = 1;
+		default = 0;
 	};
 	class CTI_SM_HALO {
 		title = "Zerty: Halo Jump: Enabled";
