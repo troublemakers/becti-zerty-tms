@@ -411,7 +411,7 @@ class Params {
 		title = "Zerty: Repair/Forcelock: Enabled";
 		values[] = {0,1};
 		texts[] = {"Disabled","Enabled"};
-		default = 0;
+		default = 1;
 	};
 	class CTI_SM_FAR {
 		title = "Zerty: Revive: Enabled";
