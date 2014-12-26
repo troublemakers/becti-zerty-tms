@@ -25,10 +25,18 @@ missionNamespace setVariable [format["CTI_%1_Vehicles_Startup", _side], [
 		["rhs_acc_pgo7v", 1],
 		["rhs_acc_pkas", 4],
 		["rhs_30Rnd_545x39_AK", 30],
-		["rhs_VOG25", 8]
+		["rhs_VOG25", 8],
+		["mas_launch_Metis_F", 2],
+		["mas_Metis", 4],
+		["mas_Metis_HE", 2],
+		["AGM_Bandage", 30],
+		["AGM_Morphine", 8],
+		["AGM_Epipen", 4],
+		["AGM_Bloodbag", 4]
+
 
 	]],
-	["rhs_uaz_vv", [	["Toolkit", 1],["firstaidkit", 10],["rhs_30Rnd_545x39_AK", 15],["rhs_rpg26_mag", 10], ["rhs_weap_rpg26", 6]]]
+	["rhs_uaz_vv", [	["Toolkit", 1],["AGM_Bandage", 20],["AGM_Morphine", 6],["firstaidkit", 10],["mas_launch_Metis_F", 1],["mas_Metis_HE", 1],["mas_Metis", 2],["rhs_30Rnd_545x39_AK", 15],["rhs_rpg26_mag", 10], ["rhs_weap_rpg26", 6]]]
 	//,	["O_Heli_Light_02_unarmed_F", []]
 ]];
 
@@ -56,6 +64,13 @@ _u = _u		+ ['O_crew_F'];
 missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_BARRACKS], _u];
 
 _u 			= ['O_Quadbike_01_F'];
+
+
+_u = _u		+ ["O_mas_cars_UAZ_MG"];
+_u = _u		+ ["O_mas_cars_UAZ_AGS30"];
+_u = _u		+ ["O_mas_cars_UAZ_SPG9"];
+_u = _u		+ ["O_mas_cars_UAZ_Med"];
+_u = _u		+ ["O_mas_BRDM2"];
 _u = _u		+ ["rhs_uaz_vv"];
 _u = _u		+ ["rhs_gaz66o_vv"];
 _u = _u		+ ["rhs_gaz66_vv"];
@@ -128,10 +143,7 @@ missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_HEAVY], _u];
 
 _u 			= ['O_Heli_Light_02_unarmed_F'];
 _u = _u		+ ['JS_JC_SU35'];
-_u = _u		+ ['RHS_Mi24P_vvs'];
-_u = _u		+ ['RHS_Mi24V_vvs'];
-_u = _u		+ ['RHS_Mi24P_vdv'];
-_u = _u		+ ['RHS_Mi24V_vdv'];
+_u = _u		+ ['O_mas_MI24V'];
 _u = _u		+ ['RHS_Mi8AMT_vvsc'];
 _u = _u		+ ['RHS_Mi8AMTSh_vvsc'];
 _u = _u		+ ['RHS_Mi8mt_vvsc'];

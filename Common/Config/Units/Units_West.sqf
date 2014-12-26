@@ -202,6 +202,51 @@ _u = _u + [3];
 _f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
+_c = _c + ['B_mas_HMMWV_M2'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [850];
+_t = _t + [15];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['B_mas_HMMWV_M134'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [975];
+_t = _t + [15];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['B_mas_HMMWV_MK19'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [1100];
+_t = _t + [15];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['B_mas_HMMWV_MEV'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [2250];
+_t = _t + [15];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + ["service-medic"];
+
+_c = _c + ['B_mas_HMMWV_TOW'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [1500];
+_t = _t + [15];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
 //--- RHS Units
 _c = _c + ['rhsusf_m1025_w'];
 _p = _p + [''];
@@ -269,7 +314,7 @@ _s = _s + [""];
 _c = _c + ['Cha_Lav25'];
 _p = _p + [''];
 _n = _n + [''];
-_o = _o + [5500];
+_o = _o + [7000];
 _t = _t + [15];
 _u = _u + [3];
 _f = _f + [CTI_FACTORY_LIGHT];
@@ -296,7 +341,7 @@ _s = _s + [""];
 _c = _c + ['Cha_Lav25A2'];
 _p = _p + [''];
 _n = _n + [''];
-_o = _o + [6000];
+_o = _o + [7500];
 _t = _t + [15];
 _u = _u + [4];
 _f = _f + [CTI_FACTORY_LIGHT];
@@ -632,7 +677,7 @@ _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
 //--- RHS & HAFM Overhaul Units
-_c = _c + ['UH1H'];
+_c = _c + ['B_mas_UH1Y_MEV_F'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [6000];
@@ -641,7 +686,7 @@ _u = _u + [1];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
-_c = _c + ['UH1Y'];
+_c = _c + ['B_mas_UH1Y_F'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [13000];
@@ -650,7 +695,7 @@ _u = _u + [2];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
-_c = _c + ['UH60M'];
+_c = _c + ['B_mas_UH60M'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [8000];
@@ -668,16 +713,16 @@ _u = _u + [3];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
-_c = _c + ['UH60M_MEV'];
+_c = _c + ['B_mas_UH60M_MEV'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [10000];
 _t = _t + [35];
 _u = _u + [4];
 _f = _f + [CTI_FACTORY_AIR];
-_s = _s + [""];
+_s = _s + ["service-medic"];
 
-_c = _c + ['CH_47F'];
+_c = _c + ['B_mas_CH_47F'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [12000];
@@ -686,7 +731,7 @@ _u = _u + [4];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
-_c = _c + ['AH64D'];
+_c = _c + ['rhs_ah64d_wd'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [60000];

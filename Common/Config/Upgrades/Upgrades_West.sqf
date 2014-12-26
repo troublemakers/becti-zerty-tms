@@ -72,10 +72,10 @@ _t=_t+			[[60*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Equipment: Gear", "Allows the use of better equipment in the Gear Menu"]];
 _a=_a	+			[true];
-_c=_c +			[[2000, 4000, 7500]];
-_lev=_lev+	[3];
+_c=_c +			[[2000, 4000, 7500, 12500, 15000]];
+_lev=_lev+	[5];
 _lin=_lin+	[[[],[],[]]];
-_t=_t+			[[20*CTI_UPGRADE_RATIO, 40*CTI_UPGRADE_RATIO, 60*CTI_UPGRADE_RATIO]];
+_t=_t+			[[20*CTI_UPGRADE_RATIO, 40*CTI_UPGRADE_RATIO, 60*CTI_UPGRADE_RATIO, 60*CTI_UPGRADE_RATIO, 60*CTI_UPGRADE_RATIO]];
 
 _l=_l+			[["Equipment: Tactical Hud", "Enable Tactical HUD for every unit equiped with tactical sunglasses"]];
 _a=_a	+			[True];
