@@ -51,7 +51,7 @@ class Params {
 		title = "INCOME: Starting Funds (East Players)";
 		values[] = {900,1500,2400,3200,6000,8000,10000,12500,15000,20000};
 		texts[] = {"$900","$1500","$2400","$3200","$6000","$8000","$10000","$12500","$15000","$20000"};
-		default = 1500;
+		default = 2400;
 	};
 	class CTI_ECONOMY_STARTUP_FUNDS_WEST_COMMANDER {
 		title = "INCOME: Starting Funds (West Commander)";
@@ -63,7 +63,7 @@ class Params {
 		title = "INCOME: Starting Funds (West Players)";
 		values[] = {900,1500,2400,3200,6000,8000,10000,12500,15000,20000};
 		texts[] = {"$900","$1500","$2400","$3200","$6000","$8000","$10000","$12500","$15000","$20000"};
-		default = 1500;
+		default = 2400;
 	};
 	class CTI_ECONOMY_TOWNS_OCCUPATION {
 		title = "INCOME: Towns Occupation";
@@ -170,7 +170,7 @@ class Params {
 		title = "Zerty: AI: Skill (credit : Bl1p, fluit)";
 		values[] = {1,2,3,4,5};
 		texts[] = {"Retards","DumbFucks","NotSobad","Good","Very Good"};
-		default = 4;
+		default = 3;
 	};
 
 	class CTI_MAX_MISSION_TIME {
@@ -289,7 +289,7 @@ class Params {
 		title = "Zerty: TOWNS : Resistance difficulty";
 		values[] = {0,25,50,75,100};
 		texts[] = {"Null","Normal","Hard","Very hard","HELL"};
-		default = 50;
+		default = 10;
 	};
 	class CTI_TOWNS_RESISTANCE_INACTIVE_MAX {
 		title = "Zerty: TOWNS : Resistance despawn Timer";
@@ -348,7 +348,7 @@ class Params {
 		title = "Zerty: Strategic: Patrols";
 		values[] = {0,1};
 		texts[] = {"Disabled","Enabled"};
-		default = 1;
+		default = 0;
 	};
 	class CTI_SM_PATROLS_NUMBER {
 		title = "Zerty: Strategic: Patrols number";
@@ -373,7 +373,7 @@ class Params {
 		title = "Zerty: Strategic: Town CAS if value above";
 		values[] = {0,100,150,200,250,300,350,400,500,600};
 		texts[] = {"0","100","150","200","250","300","350","400","500","600"};
-		default = 250;
+		default = 350;
 	};
 
 
@@ -441,6 +441,6 @@ class Params {
 		title = "Henroth: Aircraft Loadout Customisation : Enabled";
 		values[] = {0,1};
 		texts[] = {"Disabled","Enabled"};
-		default = 1;
+		default = 0;
 	};
 };

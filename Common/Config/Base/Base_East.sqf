@@ -287,5 +287,76 @@ _prices = _prices 			+ [50];
 _placements = _placements 	+ [[0, 15]];
 _categories = _categories 	+ ["Fortification"];
 
+_headers = _headers 		+ ["Heavy AA ZU23"];
+_classes = _classes 		+ ["O_mas_ZU23_AAF"];
+_prices = _prices 			+ [2500];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static DSHKM"];
+_classes = _classes 		+ ["O_mas_DSHKM_AAF"];
+_prices = _prices 			+ [1000];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static DSHKM Tripod"];
+_classes = _classes 		+ ["O_mas_DSHkM_Mini_TriPod"];
+_prices = _prices 			+ [1000];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static KORD"];
+_classes = _classes 		+ ["O_mas_KORD_AAF"];
+_prices = _prices 			+ [1000];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static KORD raised"];
+_classes = _classes 		+ ["O_mas_KORD_high_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static AGS"];
+_classes = _classes 		+ ["O_mas_AGS_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static Metis AT"];
+_classes = _classes 		+ ["O_mas_Metis_AAF"];
+_prices = _prices 			+ [1500];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static AA Igla System"];
+_classes = _classes 		+ ["O_mas_Igla_AA_pod_AAF"];
+_prices = _prices 			+ [2500];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static SPG9"];
+_classes = _classes 		+ ["O_mas_SPG9_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static 2B14"];
+_classes = _classes 		+ ["O_mas_2b14_82mm_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static D30 Field Artillery"];
+_classes = _classes 		+ ["O_mas_D30_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static D30 Field AT Howitzer"];
+_classes = _classes 		+ ["O_mas_D30_AT_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
 
 [_side, _headers, _classes, _prices, _placements, _categories] call compile preprocessFileLineNumbers "Common\Config\Base\Set_Defenses.sqf";

@@ -287,6 +287,61 @@ _prices = _prices 			+ [50];
 _placements = _placements 	+ [[0, 15]];
 _categories = _categories 	+ ["Fortification"];
 
+_headers = _headers 		+ ["Static GMG Pod"];
+_classes = _classes 		+ ["B_mas_GMG_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static M2"];
+_classes = _classes 		+ ["B_mas_M2StaticMG_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static M2 Tripod"];
+_classes = _classes 		+ ["B_mas_M2StaticMG_MiniTripod_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static MK19"];
+_classes = _classes 		+ ["B_mas_MK19_TriPod_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static Stinger Station"];
+_classes = _classes 		+ ["B_mas_Stinger_AA_pod_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static TOW Tripod"];
+_classes = _classes 		+ ["B_mas_TOW_TriPod_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static M252"];
+_classes = _classes 		+ ["B_mas_M252_AAF"];
+_prices = _prices 			+ [900];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static Heavy Field Artillery"];
+_classes = _classes 		+ ["B_mas_M119_AAF"];
+_prices = _prices 			+ [15000];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+_headers = _headers 		+ ["Static Field AT Howitzer"];
+_classes = _classes 		+ ["B_mas_M119_AT_AAF"];
+_prices = _prices 			+ [3500];
+_placements = _placements 	+ [[180, 5]];
+_categories = _categories 	+ ["Defense"];
+
+
 
 
 [_side, _headers, _classes, _prices, _placements, _categories] call compile preprocessFileLineNumbers "Common\Config\Base\Set_Defenses.sqf";

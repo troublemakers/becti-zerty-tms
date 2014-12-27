@@ -202,6 +202,51 @@ _u = _u + [5];
 _f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
+_c = _c + ['O_mas_BRDM2'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [1300];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['O_mas_cars_UAZ_MG'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [750];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['O_mas_cars_UAZ_AGS30'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [1000];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['O_mas_cars_UAZ_SPG9'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [1250];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['O_mas_cars_UAZ_Med'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [2000];
+_t = _t + [10];
+_u = _u + [0];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + ["service-medic"];
+
 _c = _c + ['rhs_uaz_vv'];
 _p = _p + [''];
 _n = _n + [''];
@@ -826,21 +871,12 @@ _u = _u + [6];
 _f = _f + [CTI_FACTORY_AIR];
 _s = _s + [""];
 
-//_c = _c + ['RHS_Mi24P_vvs'];
+//_c = _c + ['O_mas_MI24V'];
 //_p = _p + [''];
 //_n = _n + [''];
-//_o = _o + [600];
+//_o = _o + [40000];
 //_t = _t + [35];
-//_u = _u + [2];
-//_f = _f + [CTI_FACTORY_AIR];
-//_s = _s + [""];
-
-//_c = _c + ['RHS_Mi24V_vvs'];
-//_p = _p + [''];
-//_n = _n + [''];
-//_o = _o + [600];
-//_t = _t + [35];
-//_u = _u + [3];
+//_u = _u + [4];
 //_f = _f + [CTI_FACTORY_AIR];
 //_s = _s + [""];
 
