@@ -12,34 +12,7 @@ class Mission
 		"A3_Data_F_Curator_Virtual",
 		"a3_characters_f",
 		"A3_Modules_F",
-		"rhsusf_c_m113",
-		"rhsusf_c_m109",
-		"rhsusf_vehicles",
-		"rhsusf_c_m1a1",
-		"rhsusf_c_m1a2",
-		"RHS_US_A2_AirImport",
-		"HAFM_ArmA2_Helis",
-		"A3_Air_F_Heli_Heli_Transport_03",
-		"rhsusf_c_troops",
-		"JS_JC_FA18",
-		"Cha_LAV25",
-		"rhs_c_a2port_armor",
-		"rhs_c_btr",
-		"rhs_c_cars",
-		"RHS_A2_CarsImport",
-		"rhs_a2_airimport",
-		"rhs_c_bmp",
-		"rhs_c_trucks",
-		"rhs_c_bmd",
-		"rhs_c_sprut",
-		"rhs_c_troops",
-		"rhs_c_a3retex",
-		"agm_core",
-		"agm_explosives",
-		"agm_interaction",
-		"agm_medical",
-		"agm_logistics",
-		"task_force_radio_items"
+	
 	};
 	addOnsAuto[]=
 	{
@@ -1201,7 +1174,7 @@ class Mission
 						};
 						class Item6
 						{
-							value="1";
+							value="0";
 							parentCls="AGM_ModuleMedical";
 							typeName="RequireDiagnosis";
 						};
@@ -1898,7 +1871,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=60;
+		items=75;
 		class Item0
 		{
 			position[]={14488.444,12.386395,5873.4277};
@@ -2323,6 +2296,128 @@ class Mission
 			name="HELO_START_53";
 			type="Empty";
 			colorName="ColorGreen";
+		};
+		class Item60
+		{
+			position[]={11034.542,-0.0042216964,26005.387};
+			name="note";
+			text="ATTENTION: You need mods to play on this server";
+			type="hd_warning";
+			colorName="ColorRed";
+			a=2;
+			b=2;
+		};
+		class Item61
+		{
+			position[]={11436.066,0.0041290564,25602.537};
+			name="steamgroup";
+			text="Get your mods in our steamgroup: TMS CTI ArmA3";
+			type="hd_warning";
+			colorName="ColorRed";
+		};
+		class Item62
+		{
+			position[]={11421.818,-0.0015358499,25155.949};
+			name="teamspeak";
+			text="Join our teamspeakserver: ts3.thisisatest.de";
+			type="hd_warning";
+			colorName="ColorRed";
+		};
+		class Item63
+		{
+			position[]={24997.66,0.0045374255,6099.8618};
+			name="cdb command";
+			text="High Command:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item64
+		{
+			position[]={25000.254,-185.97,5900.8633};
+			name="cdb xo";
+			text="XO / Second in Command:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item65
+		{
+			position[]={24999.58,0.0032030507,5699.5659};
+			name="cdb log";
+			text="Logistics:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item66
+		{
+			position[]={25000.426,-0.00044535415,5499.8086};
+			name="cdb mev";
+			text="MEV / Medevac:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item67
+		{
+			position[]={25000.857,-0.0055699907,5300.6426};
+			name="cdb arm";
+			text="Armored Forces:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item68
+		{
+			position[]={24998.787,0.0016583877,5101.2974};
+			name="cdb mech";
+			text="Mechanized Infantry:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item69
+		{
+			position[]={25000.004,-185.97,4900.9824};
+			name="cdb specops";
+			text="SPEC-OPs:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item70
+		{
+			position[]={24999.459,-0.0019591155,4701.0684};
+			name="cdb CAS";
+			text="CAS / Close Air Support:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item71
+		{
+			position[]={25000.664,-185.97,4499.7344};
+			name="cdb af";
+			text="Air Force:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item72
+		{
+			position[]={24999.518,-185.97,4300.1294};
+			name="cdb navy";
+			text="NAVY / Naval Forces:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item73
+		{
+			position[]={24999.928,-185.97,4100.2495};
+			name="cdb arty";
+			text="Artillery:";
+			type="mil_box";
+			colorName="ColorWhite";
+		};
+		class Item74
+		{
+			position[]={25000.318,-185.97,3900.0859};
+			name="cdb rec";
+			text="Recon / Intelligence:";
+			type="mil_box";
+			colorName="ColorWhite";
 		};
 	};
 };
