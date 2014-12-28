@@ -413,7 +413,7 @@ class Mission
 					position[]={2307.9097,11.550919,9280.3311};
 					id=17;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -434,7 +434,7 @@ class Mission
 					position[]={2312.2627,12.288327,9280.3652};
 					id=18;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -455,7 +455,7 @@ class Mission
 					position[]={2316.7178,13.070632,9280.3975};
 					id=19;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -476,7 +476,7 @@ class Mission
 					position[]={2320.9033,13.695734,9280.3975};
 					id=20;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -497,7 +497,7 @@ class Mission
 					position[]={2325.0215,14.758284,9280.4316};
 					id=21;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -518,7 +518,7 @@ class Mission
 					position[]={2328.604,15.15639,9280.3975};
 					id=22;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -539,7 +539,7 @@ class Mission
 					position[]={2332.187,15.43646,9280.4639};
 					id=23;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -560,7 +560,7 @@ class Mission
 					position[]={2303.3237,10.485567,9276.8096};
 					id=24;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -581,7 +581,7 @@ class Mission
 					position[]={2307.9521,11.398458,9276.8652};
 					id=25;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -602,7 +602,7 @@ class Mission
 					position[]={2312.2939,12.176633,9276.8389};
 					id=26;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -623,7 +623,7 @@ class Mission
 					position[]={2316.9595,13.186481,9276.958};
 					id=27;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -644,7 +644,7 @@ class Mission
 					position[]={2321.0806,13.826313,9276.9326};
 					id=28;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -665,7 +665,7 @@ class Mission
 					position[]={2324.9541,14.420264,9276.9326};
 					id=29;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -686,7 +686,7 @@ class Mission
 					position[]={2328.6157,14.876999,9277.0176};
 					id=30;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -707,7 +707,7 @@ class Mission
 					position[]={2332.1904,15.277363,9277.0176};
 					id=31;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -728,7 +728,7 @@ class Mission
 					position[]={2303.2039,11.474439,9273.499};
 					id=32;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -749,7 +749,7 @@ class Mission
 					position[]={2307.8323,11.767529,9273.5547};
 					id=33;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -770,7 +770,7 @@ class Mission
 					position[]={2312.1741,12.259269,9273.5283};
 					id=34;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -791,7 +791,7 @@ class Mission
 					position[]={2316.8396,12.931205,9273.6475};
 					id=35;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -812,7 +812,7 @@ class Mission
 					position[]={2320.9607,13.4588,9273.6221};
 					id=36;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -833,7 +833,7 @@ class Mission
 					position[]={2324.8342,14.035508,9273.6221};
 					id=37;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -854,7 +854,7 @@ class Mission
 					position[]={2328.4958,14.718254,9273.707};
 					id=38;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
@@ -875,7 +875,7 @@ class Mission
 					position[]={2332.0706,15.140337,9273.707};
 					id=39;
 					side="WEST";
-					vehicle="rhsusf_army_ocp_rifleman";
+					vehicle="B_Soldier_F";
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
