@@ -289,7 +289,7 @@ class Params {
 		title = "Zerty: TOWNS : Resistance difficulty";
 		values[] = {0,25,50,75,100};
 		texts[] = {"Null","Normal","Hard","Very hard","HELL"};
-		default = 10;
+		default = 50;
 	};
 	class CTI_TOWNS_RESISTANCE_INACTIVE_MAX {
 		title = "Zerty: TOWNS : Resistance despawn Timer";
