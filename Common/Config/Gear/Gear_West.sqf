@@ -1656,6 +1656,10 @@ _i = _i		+ ["H_Cap_blk"];
 _u = _u		+ [0];
 _p = _p		+ [5];
 
+_i = _i		+ ["H_PilotHelmetFighter_B"];
+_u = _u		+ [3];
+_p = _p		+ [50];
+
 _i = _i		+ ["H_Cap_blu"];
 _u = _u		+ [0];
 _p = _p		+ [5];

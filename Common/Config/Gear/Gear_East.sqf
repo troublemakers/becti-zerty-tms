@@ -1592,8 +1592,8 @@ _u = _u		+ [1];
 _p = _p		+ [7];
 
 _i = _i		+ ["H_PilotHelmetFighter_O"];
-_u = _u		+ [1];
-_p = _p		+ [7];
+_u = _u		+ [3];
+_p = _p		+ [50];
 
 
 _i = _i		+ ["H_PilotHelmetHeli_O"];
