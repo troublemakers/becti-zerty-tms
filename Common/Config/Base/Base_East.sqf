@@ -131,6 +131,36 @@ _prices = _prices 			+ [5];
 _placements = _placements 	+ [[90, 15]];
 _categories = _categories 	+ ["Fortification"];
 
+_headers = _headers 		+ ["Runwaylight (Blue)"];
+_classes = _classes 		+ ["PortableHelipadLight_01_blue_F"];
+_prices = _prices 			+ [5];
+_placements = _placements 	+ [[90, 15]];
+_categories = _categories 	+ ["Fortification"];
+
+_headers = _headers 		+ ["Windsock"];
+_classes = _classes 		+ ["Windsock_01_F"];
+_prices = _prices 			+ [5];
+_placements = _placements 	+ [[90, 15]];
+_categories = _categories 	+ ["Fortification"];
+
+_headers = _headers 		+ ["CSAT Flag"];
+_classes = _classes 		+ ["Flag_CSAT_F"];
+_prices = _prices 			+ [5];
+_placements = _placements 	+ [[90, 15]];
+_categories = _categories 	+ ["Fortification"];
+
+_headers = _headers 		+ ["Russian Federation Flag"];
+_classes = _classes 		+ ["rhs_Flag_Russia_F"];
+_prices = _prices 			+ [5];
+_placements = _placements 	+ [[90, 15]];
+_categories = _categories 	+ ["Fortification"];
+
+_headers = _headers 		+ ["Helipad"];
+_classes = _classes 		+ ["Land_HelipadCircle_F"];
+_prices = _prices 			+ [5];
+_placements = _placements 	+ [[90, 15]];
+_categories = _categories 	+ ["Fortification"];
+
 _headers = _headers 		+ ["Empty Crate"];
 _classes = _classes 		+ ["O_supplyCrate_F"];
 _prices = _prices 			+ [5];
