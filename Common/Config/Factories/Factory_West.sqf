@@ -61,9 +61,9 @@ missionNamespace setVariable [format ["CTI_%1_%2Units", _side, CTI_BARRACKS], _u
 
 _u 			= ["B_Quadbike_01_F"];
 
-_u = _u		+ ["B_mas_HMMWV_M2"];
+_u = _u		+ ["rhsusf_m1025_w_m2"];
 _u = _u		+ ["B_mas_HMMWV_M134"];
-_u = _u		+ ["B_mas_HMMWV_MK19"];
+_u = _u		+ ["rhsusf_m1025_w_mk19"];
 _u = _u		+ ["B_mas_HMMWV_TOW"];
 _u = _u		+ ["B_mas_HMMWV_MEV"];
 _u = _u		+ ["rhsusf_m1025_w"];
